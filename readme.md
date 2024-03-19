@@ -17,7 +17,7 @@ This project is a Discord bot designed to provide support functionality within D
 ## Installation
 1. Clone the repository :
    ```
-   git clone https://github.com/wickstudio/discord-support-bot.git
+   git clone [https://github.com/wickstudio/discord-support-bot.git](https://github.com/Abu-al-Hun/Voice-support.git)
    ```
 2. Navigate to the project directory:
    ```
@@ -42,10 +42,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-- Email : wick@wick-studio.com
-
-- Website : https://wickdev.xyz
-
-- Discord : https://discord.gg/wicks
-
-- Youtube : https://www.youtube.com/@wick_studio
+- Discord : [https://discord.gg/wicks](https://discord.gg/SEA9P2paFb)https://discord.gg/SEA9P2paFb
